@@ -82,18 +82,6 @@ Skills
   * Cell biology (cell cultures)
   * Microscopy (fluorescence and confocal microscopy)
   * Plant culture and greenhouse management
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Responsibilities
 ======
@@ -115,3 +103,19 @@ Honors
 ======
 * 2009: _Médaille d'argent_ (Silver medal) from the French Academy of Agriculture
 * 2006: Best poster prize at the Workshop GPC (Wageningen, The Netherlands)
+
+Public outreach
+======
+* 2007: [Kids workshop on science writings](http://documents.irevues.inist.fr/bitstream/handle/2042/23984/DIDASKALIA_2008_32_185.pdf?sequence=1&isAllowed=y) (Paris Montagne science festival, France)
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
