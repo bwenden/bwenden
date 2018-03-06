@@ -8,4 +8,4 @@ date: 2006-03-26 - 2006-04-01
 location: "Berder, France"
 ---
 
-Authors: K. David and Bénédicte Wenden
+Authors: Karine David and Bénédicte Wenden
