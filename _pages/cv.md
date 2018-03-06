@@ -91,7 +91,7 @@ Responsibilities
 * European Action Cherry COST (FA 1104):
   * Co-leader of Working Group 2 – Phenology and Modelling
   * Scientific organization of the conference _Cherry phenology and modeling_, 28-29 April 2014 (Ullensvang, Norway)
-* Member of the team of scientific animation and strategic consulting of the UMR Biologie du Fruit et Pathologie, Inra
+* Member of the team of scientific animation and strategic council of the UMR Biologie du Fruit et Pathologie, Inra
 * Supervision of trainees and PhD students
 
 Funding
