@@ -1,12 +1,12 @@
 ---
 title: "Update on the genetic control of flowering in garden pea"
 collection: publications
-permalink: /publication/2007-Flowering-time-in-pea
+permalink: /publication/2009-Update-on-the-genetic-control of flowering-in-garden-pea
 excerpt: 'The garden pea has been a model for the genetics of flowering for several decades and numerous flowering loci have been identified, but until recently little was known about the molecular nature of these loci. This paper presents an update on recent work on the molecular genetics of flowering in pea, outlining progress in gene and mutant isolation, expression analyses, grafting and other physiological studies, and candidate gene assessment.'
 date: 2009-05-04
 venue: 'Journal of Experimental Botany'
-paperurl: 'http://enro.github.io/bwenden/files/Wenden.publication5.pdf'
-citation: 'James L. Weller, Valérie Hecht, Lim Chee Liew, Frances C. Sussmilch, Bénédicte Wenden, Claire L. Knowles, Jacqueline K. Vander Schoor (2009), "Update on the genetic control of flowering in garden pea", <i>Journal of Experimental Botany</i>, Volume 60, Issue 9, Pages 2493–2499, [https://doi.org/10.1093/jxb/erp120](https://doi.org/10.1093/jxb/erp120)'
+paperurl: 'https://doi.org/10.1093/jxb/erp120'
+citation: 'James L. Weller, Valérie Hecht, Lim Chee Liew, Frances C. Sussmilch, Bénédicte Wenden, Claire L. Knowles, Jacqueline K. Vander Schoor (2009), "Update on the genetic control of flowering in garden pea", <i>Journal of Experimental Botany</i>, Volume 60, Issue 9, Pages 2493–2499'
 ---
 
 [Download paper here](http://enro.github.io/bwenden/files/Wenden.publication5.pdf) (PDF, 313 KB)
