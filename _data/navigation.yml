@@ -9,6 +9,12 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
+  - title: "Research"
+    url: /research/
+    
+  - title: "Past projects"
+    url: /past-projects/
+    
   - title: "Portfolio"
     url: /portfolio/
     
