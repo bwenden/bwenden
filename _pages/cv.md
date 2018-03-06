@@ -72,16 +72,17 @@ Skills
 * Student unions
   * Graduate student representative at the scientific board of graduate school
 * Computer skills
-  * Statistics: Scala, SAS
-  * Data analysis and modelling: Matlab, R
-  * Image processing: Matlab Image Processing Toolbox
-  * L-systems modelling: L-studio
+  * Statistical analysis of large datasets: R
+  * Matlab, L-systems/L-studio, Simile models (Simulistics)
+  * Greenlab model
+  * Image analysis: Metamorph, Matlab Image Processing Toolbox
 * Experimental skills
   * Design of experiments and trials
   * Molecular biology techniques (DNA and RNA extraction, PCR, RT-PCR, Real Time PCR, Gateway system)
   * Cell biology (cell cultures)
-  * Microscopy (fluorescence and confocal microscopy)
+  * Microscopy (fluorescence and confocal microscopy, luciferase, protocols design)
   * Plant culture and greenhouse management
+  * Ecophysiological and physiological measures – Greenhouse and growth chamber experiments
   
 Responsibilities
 ======
