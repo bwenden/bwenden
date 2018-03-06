@@ -3,7 +3,7 @@ title: "Flowering time in pea : a systems biology approach from genetic networck
 collection: talks
 type: "Talk"
 permalink: /talks/2007-Flowering-time-in pea
-venue: "6. European Conference on Grain Legumes "Integrating legume biology for sustainable agriculture""
+venue: "6. European Conference on Grain Legumes 'Integrating legume biology for sustainable agriculture'"
 date: 2007-11-12 - 2007-11-16
 location: "Lisbon, Portugal"
 ---
