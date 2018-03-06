@@ -51,7 +51,7 @@ Australia)
   * Supervisors: Christine Beveridge, Jim Hanan
   * Computational modelling of genetic networks
 
-2005: **Six-month internship** at the Ecole Normale Supérieure (Paris, France): _Subcellular localisation of GFP-tagged proteins in marine diatoms_
+* 2005: **Six-month internship** at the Ecole Normale Supérieure (Paris, France): _Subcellular localisation of GFP-tagged proteins in marine diatoms_
   * Supervisor: Chris Bowler
   * Work in a multicultural environment
   * In silico and phylogenetic studies of diatoms cytoskeleton genes
@@ -59,7 +59,7 @@ Australia)
   * Development of a protocol for fixation and labelling of diatoms cells
   * Diatoms cell division monitoring on confocal microscopy
 
-2004: **Three-month internship** at the Centre for Plant research and UBC Botanical Garden (Vancouver, Canada): _The relation of Chosenia to Salix based on LEAFY intron data_
+* 2004: **Three-month internship** at the Centre for Plant research and UBC Botanical Garden (Vancouver, Canada): _The relation of Chosenia to Salix based on LEAFY intron data_
   * Supervisors: Iain Taylor, Quentin Cronk
   
 Skills
@@ -95,9 +95,21 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Responsbilities
+Responsibilities
 ======
-* Currently signed in to 43 different slack teams
+* Project management involving multiple multidisciplinary and international teams
+* Development and planning of experimental plans
+* European Action Cherry COST (FA 1104):
+  * Co-leader of Working Group 2 – Phenology and Modelling
+  * Scientific organization of the conference _Cherry phenology and modeling_, 28-29 April 2014 (Ullensvang, Norway)
+* Member of the team of scientific animation and strategic consulting of the UMR Biologie du Fruit et Pathologie, Inra
+* Supervision of trainees and PhD students
+
+Funding
+======
+*	ModelCheF (2014–2016, 22 k€) funded by the Department _Biologie et Amélioration des Plantes_ (BAP), Inra
+*	CherryDorm (2013–2015, 30 k€) funded by the Department _Biologie et Amélioration des Plantes_ (BAP), INRA
+* Mission post-doctorale (2009-2011) funded by Inra
 
 Honors
 ======
