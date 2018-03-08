@@ -6,7 +6,7 @@ excerpt: 'During plant development, the transition from a vegetative to reproduc
 date: 2009-10-01
 venue: 'New Phytologist'
 paperurl: 'https://doi.org/10.1111/j.1469-8137.2009.02952.x'
-citation: 'Bénédicte Wenden, Elizabeth A. Dun, Jim Hanan, Bruno Andrieu, James L. Weller, Christine A. Beveridge, Catherine Rameau (2009), "Computational analysis of flowering in pea (_Pisum sativum_)", <i>New Phytologist</i>, Volume 184, Issue 1, Pages 153–167'
+citation: 'Bénédicte Wenden, Elizabeth A. Dun, Jim Hanan, Bruno Andrieu, James L. Weller, Christine A. Beveridge, Catherine Rameau (2009), "Computational analysis of flowering in pea (<i>Pisum sativum</i>)", <i>New Phytologist</i>, Volume 184, Issue 1, Pages 153–167'
 ---
 
 [Download paper here](http://enro.github.io/bwenden/files/Wenden.publication4.pdf) (PDF, 539 KB)
