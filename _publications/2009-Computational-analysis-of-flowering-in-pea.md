@@ -1,7 +1,7 @@
 ---
 title: "Computational analysis of flowering in pea (Pisum sativum)"
 collection: publications
-permalink: /publication/22009-Computational-analysis-of-flowering-in-pea
+permalink: /publication/2009-Computational-analysis-of-flowering-in-pea
 excerpt: 'During plant development, the transition from a vegetative to reproductive state is a critical event. For decades, pea (Pisum sativum) has been used as a model species to study this transition. These studies have led to a conceptual, qualitative model for the control of flower initiation, referred to as the ‘classical’ model. This model involves many inputs, namely photoperiod, genetic states and two mobile signals which interact to determine the first node of flowering. Here, we developed a computational model based on the hypotheses of the classical model. Accordingly, we converted qualitative hypotheses into quantitative rules.'
 date: 2009-10-01
 venue: 'New Phytologist'
