@@ -3,7 +3,7 @@ title: "Genetic determinism and candidate genes for chilling requirement and flo
 collection: talks
 type: "Talk"
 permalink: /talks/2012-Genetic-determinism-and-candidate-genes-for-chilling-requirement-and-flowering-date-in-sweet-cherry
-venue: "6. Rosaceous Genomics Conference"
+venue: "6th Rosaceous Genomics Conference"
 date: 2012-09-30 - 2012-10-04
 location: "Mezzocorona, Italy"
 ---
