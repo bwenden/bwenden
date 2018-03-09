@@ -1,5 +1,5 @@
 ---
-title: 'Genetic determinism of phenological traits highly affected by climate change in <i>Prunus avium</i>: flowering date dissected into chilling and heat requirements'
+title: "Genetic determinism of phenological traits highly affected by climate change in <i>Prunus avium</i>: flowering date dissected into chilling and heat requirements"
 collection: publications
 permalink: /publication/2014-Genetic-determinism-of-phenological-traits-highly-affected-by-climate-change-in-Prunus-avium
 excerpt: 'The present study investigated the genetic determinism of flowering date (FD), dissected into chilling (CR) and heat (HR) requirements. Elucidation of the genetic determinism of flowering traits is crucial to anticipate the increasing of ecological misalignment of adaptative traits with novel climate conditions in most temperate-fruit species.
