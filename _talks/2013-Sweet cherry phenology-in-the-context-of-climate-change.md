@@ -8,4 +8,4 @@ date: 2013-07-04 - 2013-07-06
 location: "Evry, France"
 ---
 
-Authors: Wenden B, Campoy JA, Quero-Garcia J, Castède S, Le Dantec L, Barreneche T, Dirlewanger E
+Authors: Bénédicte Wenden, José Antonio Campoy, José Quero-Garcia, Sophie Castède, Loick Le Dantec, Teresa Barreneche, Elisabeth Dirlewanger

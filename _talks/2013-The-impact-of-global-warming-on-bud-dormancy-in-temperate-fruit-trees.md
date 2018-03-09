@@ -8,4 +8,4 @@ date: 2013-01-12 - 2013-01-16
 location: "San Diego, USA"
 ---
 
-Authors: Campoy JA, Le Dantec L, Quero-Garcia J, Castède S, Wenden B, Barreneche T, Egea J, Ruiz D, Dirlewanger E.
+Authors: José Antonio Campoy, Loick Le Dantec, José Quero-Garcia, Sophie Castède, Bénédicte Wenden, Teresa Barreneche, J Egea, D Ruiz, Elisabeth Dirlewanger

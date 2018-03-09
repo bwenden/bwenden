@@ -8,4 +8,4 @@ date: 2013-06-23 - 2013-06-27
 location: "Plasencia, Spain"
 ---
 
-Authors: Quero-Garcia J, Campoy JA, Castède S, Barreneche T, Le Dantec L, Wenden B, Joly J, Fouilhaux L, Dirlewanger E
+Authors: José Quero-Garcia, José Antonio Campoy, Sophie Castède, Teresa Barreneche, Loick Le Dantec, Bénédicte Wenden, Jacques Joly, Lydie Fouilhaux, Elisabeth Dirlewanger
