@@ -12,7 +12,7 @@ location: "Ullensvang, Norway"
 
 Authors: Bénédicte Wenden, Mahendra Mariadassou
 
-[Download paper here](https://www.researchgate.net/profile/Benedicte_Wenden/publication/317636087_Sweet_cherry_phenology_in_the_context_of_climate_change_A_systems_biology_approach/links/5975e2440f7e9b4016acb07c/Sweet-cherry-phenology-in-the-context-of-climate-change-A-systems-biology-approach.pdf) (PDF, 804 KB)
+[Download proceedings here](https://www.researchgate.net/profile/Benedicte_Wenden/publication/317636087_Sweet_cherry_phenology_in_the_context_of_climate_change_A_systems_biology_approach/links/5975e2440f7e9b4016acb07c/Sweet-cherry-phenology-in-the-context-of-climate-change-A-systems-biology-approach.pdf) (PDF, 804 KB)
 
 **Abstract**: In temperate fruit trees, most key phenological stages are highly dependent on
 environmental conditions. In particular, correct timing for dormancy and flowering is
