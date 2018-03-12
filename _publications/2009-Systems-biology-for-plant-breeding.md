@@ -2,7 +2,7 @@
 title: "Systems biology for plant breeding: the example of flowering time in pea"
 collection: publications
 permalink: /publication/2009-Systems-biology-for-plant-breeding
-excerpt: 'As part of a breeding strategy applied to pea (Pisum sativum L.), we propose the use of modelling as a tool for studying flowering time. The pea, both a crop and a model species for developmental processes, represents a valuable tool for systems biology approaches. A preliminary computational model for flowering control was previously developed based on genetic and physiological approaches. This paper discusses possible improvements of the model based on recent molecular advances on the regulation of flowering in peas and the model species Arabidopsis thaliana. A combination of a genetic approach together with agroecophysiological models that are not based on genotype, built into a complete model for flowering time prediction is also proposed. This complete model should allow an accurate prediction of flower initiation and also provide an integrative tool that will be useful for various purposes, from genetic networks to crop models.'
+excerpt: ''
 date: 2009-10-15
 venue: 'Comptes Rendus Biologies'
 paperurl: 'https://doi.org/10.1016/j.crvi.2009.09.011'
