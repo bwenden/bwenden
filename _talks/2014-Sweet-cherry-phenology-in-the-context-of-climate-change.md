@@ -30,4 +30,4 @@ Bordeaux reveal the key periods for chill and heat accumulation during dormancy.
 Additionally, we propose a way of combining different data and approaches, and integrate
 them into a predictive model as an assisting tool for sweet cherry breeding strategies.
 
-<img src='/bwenden/images/QTL-in-linkage-group.png' />
+<img src='/bwenden/images/PLS-regression.png' />
