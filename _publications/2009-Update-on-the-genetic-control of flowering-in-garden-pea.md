@@ -2,7 +2,7 @@
 title: "Update on the genetic control of flowering in garden pea"
 collection: publications
 permalink: /publication/2009-Update-on-the-genetic-control of flowering-in-garden-pea
-excerpt: 'The garden pea has been a model for the genetics of flowering for several decades and numerous flowering loci have been identified, but until recently little was known about the molecular nature of these loci. This paper presents an update on recent work on the molecular genetics of flowering in pea, outlining progress in gene and mutant isolation, expression analyses, grafting and other physiological studies, and candidate gene assessment.'
+excerpt: ''
 date: 2009-05-04
 venue: 'Journal of Experimental Botany'
 paperurl: 'https://doi.org/10.1093/jxb/erp120'
