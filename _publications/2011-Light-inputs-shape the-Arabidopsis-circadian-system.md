@@ -2,7 +2,7 @@
 title: "Light inputs shape the Arabidopsis circadian system"
 collection: publications
 permalink: /publication/2011-Light-inputs-shape the-Arabidopsis-circadian-system
-excerpt: 'The circadian clock is a fundamental feature of eukaryotic gene regulation that is emerging as an exemplar genetic sub-network for systems biology. The circadian system in Arabidopsis plants is complex, in part due to its phototransduction pathways, which are themselves under circadian control. We therefore analysed two simpler experimental systems. (…) Both experimental systems illustrate how profoundly the light input pathways affect the plant circadian clock, and provide strong experimental manipulations to understand critical steps in the plant clock mechanism.'
+excerpt: ''
 date: 2011-3-4
 venue: 'The Plant Journal'
 paperurl: 'https://doi.org/10.1111/j.1365-313X.2011.04505.x'
