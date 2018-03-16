@@ -1,8 +1,8 @@
 ---
-title: "Multiscale digital Arabidopsis predicts individual organ and whole-organism growth <html><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="2648228" /></html>"
+title: "Multiscale digital Arabidopsis predicts individual organ and whole-organism growth"
 collection: publications
 permalink: /publication/2014-Multiscale-digital-Arabidopsis-predicts-individual-organ-and-whole-organism-growth
-excerpt: ''
+excerpt: '<html><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="2648228" /></html>'
 date: 2014-09-02
 venue: 'Proceedings of the National Academy of Sciences'
 paperurl: 'https://doi.org/10.1073/pnas.1410238111'
