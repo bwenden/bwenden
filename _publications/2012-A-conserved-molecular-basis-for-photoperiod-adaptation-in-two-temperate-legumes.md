@@ -2,15 +2,7 @@
 title: "A conserved molecular basis for photoperiod adaptation in two temperate legumes"
 collection: publications
 permalink: /publication/2012-A-conserved-molecular-basis-for-photoperiod-adaptation-in-two-temperate-legumes
-excerpt: 'Legumes were among the first plant species to be domesticated, and accompanied 
-cereals in expansion of agriculture from the Fertile Crescent into diverse environments 
-across the Mediterranean basin, Europe, Central Asia, and the Indian subcontinent. 
-Although several recent studies have outlined the molecular basis for domestication and eco-
-geographic adaptation in the two main cereals from this region, wheat and barley, similar 
-questions remain largely unexplored in their legume counterparts. Here we identify two 
-major loci controlling differences in photoperiod response between wild and domesticated 
-pea, and show that one of these, HIGH RESPONSE TO PHOTOPERIOD (HR), is an ortholog 
-of EARLY FLOWERING 3 (ELF3), a gene involved in circadian clock function.'
+excerpt: ''
 date: 2012-12-18
 venue: 'Proceedings of the National Academy of Sciences'
 paperurl: 'https://doi.org/10.1073/pnas.1207943110'

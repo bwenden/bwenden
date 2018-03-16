@@ -2,12 +2,7 @@
 title: "Spontaneous spatiotemporal waves of gene expression from biological clocks in the leaf"
 collection: publications
 permalink: /publication/2012-Spontaneous-spatiotemporal-waves-of-gene-expression-from-biological-clocks-in-the-leaf
-excerpt: 'The circadian clocks that drive daily rhythms in animals are tightly coupled among 
-the cells of some tissues. The coupling profoundly affects cellular rhythmicity and is central 
-to contemporary understanding of circadian physiology and behavior. In contrast, studies of 
-the clock in plant cells have largely ignored intercellular coupling, which is reported to be 
-very weak or absent. We used luciferase reporter gene imaging to monitor circadian rhythms 
-in leaves of Arabidopsis thaliana plants, achieving resolution close to the cellular level.'
+excerpt: ''
 date: 2012-4-24
 venue: 'Proceedings of the National Academy of Sciences'
 paperurl: 'https://doi.org/10.1073/pnas.1118814109'
