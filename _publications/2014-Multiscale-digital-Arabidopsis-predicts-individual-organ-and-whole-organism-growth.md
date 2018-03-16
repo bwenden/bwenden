@@ -2,11 +2,11 @@
 title: "Multiscale digital Arabidopsis predicts individual organ and whole-organism growth"
 collection: publications
 permalink: /publication/2014-Multiscale-digital-Arabidopsis-predicts-individual-organ-and-whole-organism-growth
-excerpt: '<html><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="2648228" /></html>'
+excerpt: ''
 date: 2014-09-02
 venue: 'Proceedings of the National Academy of Sciences'
 paperurl: 'https://doi.org/10.1073/pnas.1410238111'
-citation: 'Yin Hoon Chew, Bénédicte Wenden, Anna Flis, Virginie Mengin, Jasper Taylor, Christopher L Davey, Christopher Tindal, Howard Thomas, Helen J Ougham, Philippe De Reffye, Mark Stitt, Mathew Williams, Robert Muetzelfeldt, Karen J Halliday, Andrew J Millar (2014), "Multiscale digital Arabidopsis predicts individual organ and whole-organism growth", <i>Proceedings of the National Academy of Sciences</i>, Volume 111, Issue 39, Pages 4127-4136'
+citation: 'Yin Hoon Chew, Bénédicte Wenden, Anna Flis, Virginie Mengin, Jasper Taylor, Christopher L Davey, Christopher Tindal, Howard Thomas, Helen J Ougham, Philippe De Reffye, Mark Stitt, Mathew Williams, Robert Muetzelfeldt, Karen J Halliday, Andrew J Millar (2014), "Multiscale digital Arabidopsis predicts individual organ and whole-organism growth", <i>Proceedings of the National Academy of Sciences</i>, Volume 111, Issue 39, Pages 4127-4136 <html><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="2648228" /></html>'
 ---
 
 [Download paper here](http://www.pnas.org/content/111/39/E4127.full.pdf) (PDF, 2 MB)
