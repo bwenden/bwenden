@@ -2,11 +2,11 @@
 title: "Genetic determinism of phenological traits highly affected by climate change in <i>Prunus avium</i>: flowering date dissected into chilling and heat requirements"
 collection: publications
 permalink: /publication/2014-Genetic-determinism-of-phenological-traits-highly-affected-by-climate-change-in-Prunus-avium
-excerpt: ''
+excerpt: '<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="2140494" />'
 date: 2014-1-13
 venue: 'New Phytologist'
 paperurl: 'https://doi.org/10.1111/nph.12658'
-citation: 'Sophie Castède, José Antonio Campoy, José Quero García, Loïck Dantec, Maria Lafargue, Teresa Barreneche, Bénédicte Wenden, Elisabeth Dirlewanger (2014), "Genetic determinism of phenological traits highly affected by climate change in <i>Prunus avium</i>: flowering date dissected into chilling and heat requirements", <i>New Phytologist</i>, Volume 202, Issue 2, Pages 703-715 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="2140494" />'
+citation: 'Sophie Castède, José Antonio Campoy, José Quero García, Loïck Dantec, Maria Lafargue, Teresa Barreneche, Bénédicte Wenden, Elisabeth Dirlewanger (2014), "Genetic determinism of phenological traits highly affected by climate change in <i>Prunus avium</i>: flowering date dissected into chilling and heat requirements", <i>New Phytologist</i>, Volume 202, Issue 2, Pages 703-715'
 ---
 
 [Download paper here](http://enro.github.io/bwenden/files/Wenden.publication7.pdf) (PDF, 579 KB)
