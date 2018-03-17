@@ -3,10 +3,10 @@ title: "Etude des déterminants génétiques et moléculaires de caractères inf
 collection: publications
 permalink: /publication/2016-Etude-des-determinants-genetiques-et-moleculaires-de-caracteres-influences-par-le-changement-climatique-chez-l-abricotier-et-le-cerisier
 excerpt: ''
-date: 2014-12-2
-venue: 'Frontiers in Plant Science'
+date: 2016
+venue: 'Innovations Agronomiques'
 paperurl: 'https://doi.org/10.3389/fpls.2014.00666'
-citation: 'Evelyne Costes, Laurent Crespel, Béatrice Denoyes, Philippe Morel, Marie-Noëlle Demene, Pierre-Eric Lauri, Bénédicte Wenden (2014), "Bud structure, position and fate generate various branching patterns along shoots of closely related Rosaceae species: a review", <i>Frontiers in Plant Science</i>, Volume 5, Pages 666'
+citation: 'José Quero-Garcia, Guillaume Roch, Gérard Charlot, Christian Hilaire, Teresa Barreneche, José Antonio Campoy-Corbalan, Elisabeth Dirlewanger, Loick Le Dantec, Bénédicte Wenden, Jean Marc Audergon (2016), "Bud structure, position and fate generate various branching patterns along shoots of closely related Rosaceae species: a review", <i>Frontiers in Plant Science</i>, Volume 5, Pages 666'
 ---
 [Download paper here](https://pdfs.semanticscholar.org/541f/62e74bbf6d5aee50ab7b03929a70555b9111.pdf) (PDF, 2,6 MB)
 
