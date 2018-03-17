@@ -1,5 +1,5 @@
 ---
-title: "A la recherche de méthodes alternatives aux tests biologiques classiques pour la détermination de la date de sortie d'endodormance, la quête du haut débit par le Groupe de Travail Dormance de Perpheclim et d'ODS"
+title: "À la recherche de méthodes alternatives aux tests biologiques classiques pour la détermination de la date de sortie d'endodormance, la quête du haut débit par le Groupe de Travail Dormance de Perpheclim et d'ODS"
 collection: talks
 type: "Talk"
 permalink: /talks/2015-A-la-recherche-de-methodes-alternatives-aux-tests-biologiques-classiques-pour-la-détermination-de-la-date-de-sortie-d-endodormance
