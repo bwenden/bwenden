@@ -6,7 +6,7 @@ excerpt: ''
 date: 2016-4
 venue: 'Innovations Agronomiques'
 paperurl: 'https://doi.org/10.15454/1.472108874009284E12'
-citation: 'José Quero-Garcia, Guillaume Roch, Gérard Charlot, Christian Hilaire, Teresa Barreneche, José Antonio Campoy-Corbalan, Elisabeth Dirlewanger, Loick Le Dantec, Bénédicte Wenden, Jean-Marc Audergon (2016), "Etude des déterminants génétiques et moléculaires de caractères influencés par le changement climatique chez l'abricotier et le cerisier", <i>Innovations Agronomiques</i>, Volume 50, Issue 1, Pages 51-58'
+citation: 'José Quero-Garcia, Guillaume Roch, Gérard Charlot, Christian Hilaire, Teresa Barreneche, José Antonio Campoy, Elisabeth Dirlewanger, Loick Le Dantec, Bénédicte Wenden, Jean-Marc Audergon (2016), "Etude des déterminants génétiques et moléculaires de caractères influencés par le changement climatique chez l'abricotier et le cerisier", <i>Innovations Agronomiques</i>, Volume 50, Pages 51-58'
 ---
 
 title: "Mapping of candidate genes involved in bud dormancy and flowering time in sweet cherry (<i>Prunus avium</i>)"
