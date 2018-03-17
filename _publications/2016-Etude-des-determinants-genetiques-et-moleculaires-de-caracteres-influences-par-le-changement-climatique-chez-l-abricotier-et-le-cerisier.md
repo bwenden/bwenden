@@ -3,7 +3,7 @@ title: "Étude des déterminants génétiques et moléculaires de caractères in
 collection: publications
 permalink: /publication/2016-Etude-des-determinants-genetiques-et-moleculaires-de-caracteres-influences-par-le-changement-climatique-chez-l-abricotier-et-le-cerisier
 excerpt: ''
-date: 2016-4
+date: 2016-04
 venue: 'Innovations Agronomiques'
 paperurl: 'https://doi.org/10.15454/1.472108874009284E12'
 citation: 'José Quero-Garcia, Guillaume Roch, Gérard Charlot, Christian Hilaire, Teresa Barreneche, José Antonio Campoy-Corbalan, Elisabeth Dirlewanger, Loick Le Dantec, Bénédicte Wenden, Jean-Marc Audergon (2016), "Etude des déterminants génétiques et moléculaires de caractères influencés par le changement climatique chez l'abricotier et le cerisier", <i>Innovations Agronomiques</i>, Volume 50, Pages 51-58'
