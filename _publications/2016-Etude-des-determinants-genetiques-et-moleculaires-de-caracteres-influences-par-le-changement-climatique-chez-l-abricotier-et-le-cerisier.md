@@ -8,6 +8,16 @@ venue: 'Innovations Agronomiques'
 paperurl: 'https://doi.org/10.15454/1.472108874009284E12'
 citation: 'José Quero-Garcia, Guillaume Roch, Gérard Charlot, Christian Hilaire, Teresa Barreneche, José Antonio Campoy-Corbalan, Elisabeth Dirlewanger, Loick Le Dantec, Bénédicte Wenden, Jean-Marc Audergon (2016), "Etude des déterminants génétiques et moléculaires de caractères influencés par le changement climatique chez l'abricotier et le cerisier", <i>Innovations Agronomiques</i>, Volume 50, Pages 51-58'
 ---
+
+title: "Mapping of candidate genes involved in bud dormancy and flowering time in sweet cherry (<i>Prunus avium</i>)"
+collection: publications
+permalink: /publication/2015-Mapping-of-candidate-genes-involved-in-bud-dormancy-and-flowering-time-in-sweet-cherry
+excerpt: ''
+date: 2015-11-20
+venue: 'PLOS ONE'
+paperurl: 'https://doi.org/10.1371/journal.pone.0143250'
+citation: 'Sophie Castède, José Antonio Campoy, Loïck Le Dantec, José Quero-García, Teresa Barreneche, Bénédicte Wenden, Elisabeth Dirlewanger (2015), "Mapping of candidate genes involved in bud dormancy and flowering time in sweet cherry (<i>Prunus avium</i>)", <i>PLOS ONE</i>, Volume 10, Issue 11, Page e0143250'
+
 [Download paper here](https://doi.org/10.15454/1.472108874009284E12) (PDF, 1,1 MB)
 
 **Résumé**: Dans le contexte de l’augmentation des températures liée au changement climatique, une étude sur l’adaptation du cerisier (<i>Prunus avium</i>) et de l’abricotier (<i>Prunus armeniaca</i>) à ces modifications a été conduite avec le concours du Ministère de l’agriculture. Une recherche de QTL a été menée sur des caractères en lien avec la phénologie de la floraison : la date de floraison a été décomposée en besoins en froid et besoins en chaud et la qualité de la floraison a été évaluée par la quantification des nécroses ou des anomalies florales. Pour la date de floraison et ses composantes, des QTL stables et importants ont été détectés sur les groupes de liaison (GL) 4, 1 et 6 chez les deux espèces, confirmant le fort niveau de synténie au sein des Prunus. Les QTL pour les caractères de qualité de floraison étaient moins significatifs et stables, néanmoins, des QTL prometteurs ont été mis en évidence sur les GL1 et 5, uniquement sur l’abricotier. Des gènes-candidats (GC) impliqués dans la phénologie de la floraison ont été identifiés chez le cerisier et seront bientôt validés dans les deux espèces. Les modèles phénologiques classiques, utilisés pour prédire les dates de floraison, ont été optimisés sur abricotier et des analyses similaires sont en cours chez le cerisier. Enfin, les données sur les QTL et les GC mises en évidence sont en cours d’incorporation dans les programmes de sélection assistée par marqueurs (SAM).
