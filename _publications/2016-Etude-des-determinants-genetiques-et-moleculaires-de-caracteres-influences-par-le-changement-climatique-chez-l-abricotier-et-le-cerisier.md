@@ -1,22 +1,13 @@
 ---
-title: "Étude des déterminants génétiques et moléculaires de caractères influencés par le changement climatique chez labricotier et le cerisier"
+title: "Étude des déterminants génétiques et moléculaires de caractères influencés par le changement climatique chez l'abricotier et le cerisier"
 collection: publications
 permalink: /publication/2016-Etude-des-determinants-genetiques-et-moleculaires-de-caracteres-influences-par-le-changement-climatique-chez-l-abricotier-et-le-cerisier
 excerpt: ''
 date: 2016-4-1
 venue: 'Innovations Agronomiques'
-paperurl: 'https://doi.org/10.15454/1.472108874009284E12'
+paperurl: 'https://www6.inra.fr/ciag/Revue/Volumes-publies-en-2016/Volume-50-Avril-2016'
 citation: 'José Quero-Garcia, Guillaume Roch, Gérard Charlot, Christian Hilaire, Teresa Barreneche, José Antonio Campoy, Elisabeth Dirlewanger, Loick Le Dantec, Bénédicte Wenden, Jean-Marc Audergon (2016), "Étude des déterminants génétiques et moléculaires de caractères influencés par le changement climatique chez l‘abricotier et le cerisier", <i>Innovations Agronomiques</i>, Volume 50, Pages 51-58'
 ---
-
-title: "Mapping of candidate genes involved in bud dormancy and flowering time in sweet cherry (<i>Prunus avium</i>)"
-collection: publications
-permalink: /publication/2015-Mapping-of-candidate-genes-involved-in-bud-dormancy-and-flowering-time-in-sweet-cherry
-excerpt: ''
-date: 2015-11-20
-venue: 'PLOS ONE'
-paperurl: 'https://doi.org/10.1371/journal.pone.0143250'
-citation: 'Sophie Castède, José Antonio Campoy, Loïck Le Dantec, José Quero-García, Teresa Barreneche, Bénédicte Wenden, Elisabeth Dirlewanger (2015), "Mapping of candidate genes involved in bud dormancy and flowering time in sweet cherry (<i>Prunus avium</i>)", <i>PLOS ONE</i>, Volume 10, Issue 11, Page e0143250'
 
 [Download paper here](https://doi.org/10.15454/1.472108874009284E12) (PDF, 1,1 MB)
 
