@@ -1,5 +1,5 @@
 ---
-title: "Étude des déterminants génétiques et moléculaires de caractères influencés par le changement climatique chez l‘abricotier et le cerisier"
+title: "Étude des déterminants génétiques et moléculaires de caractères influencés par le changement climatique chez labricotier et le cerisier"
 collection: publications
 permalink: /publication/2016-Etude-des-determinants-genetiques-et-moleculaires-de-caracteres-influences-par-le-changement-climatique-chez-l-abricotier-et-le-cerisier
 excerpt: ''
