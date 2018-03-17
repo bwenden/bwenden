@@ -6,7 +6,7 @@ permalink: /talks/2015-Statistical-analysis-of-trends-in-sweet-cherry-flowering-
 date: 2015-6-2
 venue: 'X International Symposium on Modelling in Fruit Research and Orchard Management'
 paperurl: 'https://doi.org/10.17660/ActaHortic.2017.1160.31'
-location: "	Montpellier, France "
+location: "Montpellier, France"
 ---
 
 Authors: Bénédicte Wenden, Mahendra Mariadassou, José Antonio Campoy, José Quero-Garcia, Elisabeth Dirlewanger
