@@ -5,7 +5,7 @@ type: "Poster"
 permalink: /talks/2017-Epigenome-and-transcriptome-studies-during-dormancy-in-sweet-cherry-flower-buds
 date: 2017-01-13 - 2017-01-18
 venue: 'Plant and Animal Genome XXV'
-paperurl: 'https://pag.confex.com/pag/xxv/mediafile/Handout/Paper25765/Poster_PAG%202017_Vimont.pdf'
+paperurl: 'https://pag.confex.com/pag/xxv/meetingapp.cgi/Paper/25765'
 location: "San Diego, United States"
 ---
 Authors: Noémie Vimont, Mustapha Arkoun, Jean-Claude Yvin, Philip A Wigge, Elisabeth Dirlewanger, Sandra Cortijo, Bénédicte Wenden
