@@ -9,6 +9,4 @@ paperurl: 'https://www.cabi.org/bookshop/book/9781780648378'
 citation: 'Bénédicte Wenden, José Antonio Campoy, Martin Jensen, Gregorio López-Ortega (2017), "Climatic limiting factors: Temperature", in Jose Quero-Garcia, Amy Iezzoni, Joanna Pulawska, Gregory A Lang (ed.), <i>Cherries: Botany, Production and Uses</i>, CABI Publishing, Pages 166-188'
 ---
 
-<i class="ai ai-open-access"></i> [Read chapter here](https://books.google.fr/books?id=5xsxDwAAQBAJ&lpg=PA166&ots=CDTyyxKK_4&dq=info%3AzmQRj2mk24EJ%3Ascholar.google.com&lr&pg=PA166#v=onepage&q&f=false)
-
-<img src='/bwenden/images/Detection-QTL.png' />
+[Read chapter here](https://books.google.fr/books?id=5xsxDwAAQBAJ&lpg=PA166&ots=CDTyyxKK_4&dq=info%3AzmQRj2mk24EJ%3Ascholar.google.com&lr&pg=PA166#v=onepage&q&f=false)
