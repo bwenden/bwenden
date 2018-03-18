@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior research at Inra Bordeaux-Aquitaine (France), in the [UMR1332 Biologie du Fruit et Pathologie laboratory](https://www6.bordeaux-aquitaine.inra.fr/bfp_eng/). I like to define myself as a multi-disciplinary scientist, having carried out several systems biology projects on different plant species. After studying green pea and _Arabidopsis thaliana_, I have now moved to fruit trees.
+I am a research scientist at Inra Bordeaux-Aquitaine (France), in the [UMR1332 Biologie du Fruit et Pathologie laboratory](https://www6.bordeaux-aquitaine.inra.fr/bfp_eng/). I like to define myself as a multi-disciplinary scientist, having carried out several systems biology projects on different plant species. After studying green pea and _Arabidopsis thaliana_, I have now moved to fruit trees.
 
 I study the adaptation of cherry tree to climate change through modelling. I integrate large datasets of climatic, phenotypic and genomic data into a descriptive and predictive model of the phenological stages of cherry tree, with the ultimate aim of selecting the right plant material adapted to future climate conditions with guaranteed fruit quality.
 
