@@ -3,7 +3,7 @@ title: "The sweet cherry genome: A new sequencing project"
 collection: talks
 type: "Poster"
 permalink: /talks/2017-The-sweet-cherry-genome
-date: 2017-01-13 - 2017-01-18
+date: 2017-01-14 - 2017-01-18
 venue: 'Plant and Animal Genome XXV'
 paperurl: 'https://pag.confex.com/pag/xxv/meetingapp.cgi/Paper/25535'
 location: "San Diego, United States"
