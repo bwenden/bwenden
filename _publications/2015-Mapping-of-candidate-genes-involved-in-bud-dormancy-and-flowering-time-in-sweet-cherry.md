@@ -8,7 +8,7 @@ venue: 'PLOS ONE'
 paperurl: 'https://doi.org/10.1371/journal.pone.0143250'
 citation: 'Sophie Castède, José Antonio Campoy, Loïck Le Dantec, José Quero-García, Teresa Barreneche, Bénédicte Wenden, Elisabeth Dirlewanger (2015), "Mapping of candidate genes involved in bud dormancy and flowering time in sweet cherry (<i>Prunus avium</i>)", <i>PLOS ONE</i>, Volume 10, Issue 11, Page e0143250'
 ---
-[Download paper here](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0143250&type=printable) (PDF, 5,5 MB)
+<i class="ai ai-open-access"></i> [Download paper here](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0143250&type=printable) (PDF, 5,5 MB)
 
 <a href="https://figshare.com/articles/Mapping_of_Candidate_Genes_Involved_in_Bud_Dormancy_and_Flowering_Time_in_Sweet_Cherry_Prunus_avium_/1609289"><i class="ai ai-figshare ai-3x"></i></a>
 

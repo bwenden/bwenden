@@ -66,7 +66,7 @@ Skills
 ======
 * Languages
   * French: mother tongue
-  * English: fluent in both the written and spoken language
+  * English: fluent
   * Spanish: working knowledge
   * Chinese: two-year knowledge
 * Student unions
