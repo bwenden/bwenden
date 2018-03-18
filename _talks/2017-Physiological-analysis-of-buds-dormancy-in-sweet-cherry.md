@@ -3,7 +3,7 @@ title: "Physiological analysis of buds dormancy in sweet cherry"
 collection: talks
 type: "Poster"
 permalink: /talks/2017-Physiological-analysis-of-buds-dormancy-in-sweet-cherry
-date: 2017-01-13 - 2017-01-18
+date: 2017-01-14 - 2017-01-18
 venue: 'Plant and Animal Genome XXV'
 paperurl: 'https://pag.confex.com/pag/xxv/meetingapp.cgi/Paper/25797'
 location: "San Diego, United States"
