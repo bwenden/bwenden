@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+{% include toc %}
 
 Flowering time in pea: a systems biology approach from the genetic network to the field
 ======
