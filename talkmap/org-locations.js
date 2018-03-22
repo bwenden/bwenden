@@ -15,6 +15,16 @@ var addressPoints = [
     3.8767337
   ], 
   [
+    "Naoussa, Greece", 
+    36.4162061, 
+    25.4313585
+  ], 
+  [
+    "Angers, France", 
+    47.4739884, 
+    -0.5515588
+  ], 
+  [
     "Lisbon, Portugal", 
     38.7077507, 
     -9.1365919
