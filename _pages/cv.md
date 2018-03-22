@@ -96,7 +96,8 @@ Responsibilities
 
 Funding
 ======
-*	ModelCheF (2014–2016, 22 k€) funded by the Genetics and Plant Breeding Department, Inra
+* Hidro (2017-2018) funded by the Genetics and Plant Breeding Department, Inra
+*	ModelCheF (2014–2015, 22 k€) funded by the Genetics and Plant Breeding Department, Inra
 *	CherryDorm (2013–2015, 30 k€) funded by the Genetics and Plant Breeding Department, Inra
 * Mission post-doctorale (2009-2011) funded by Inra
 
