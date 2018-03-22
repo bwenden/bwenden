@@ -7,19 +7,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% include toc %}
 
 I am a research scientist at Inra Bordeaux-Aquitaine (France), in the [UMR1332 Biologie du Fruit et Pathologie laboratory](https://www6.bordeaux-aquitaine.inra.fr/bfp_eng/). I like to define myself as a multi-disciplinary scientist, having carried out several systems biology projects on different plant species. After studying green pea and _Arabidopsis thaliana_, I have now moved to fruit trees.
 
 I study the adaptation of cherry tree to climate change through modelling. I integrate large datasets of climatic, phenotypic and genomic data into a descriptive and predictive model of the phenological stages of cherry tree, with the ultimate aim of selecting the right plant material adapted to future climate conditions with guaranteed fruit quality.
 
-Research overview
+My research
 ------
 After training in agricultural science and plant science, my career began in integrative biology, particularly in modelling the genetic mechanisms of flowering in pea (_Pisum sativum_). With the aim of contributing to a varietal improvement strategy (already!), I took part in a pluridisciplinary project where I had to interact with specialists in physiology, ecophysiology, genetics, molecular biology and modelling. Flowering is an amazing process, controlled by highly complex mechanisms, but also with a strong impact on crop production, and for this reason, it is a perfect focus for multi-scale modelling.
 
 During this early work, I had the opportunity to appreciate the complexity of the circadian clock, which I could not tackle for lack of data in pea. Therefore, I joined a team associating experimenters and modellers in a very original multidisciplinary context, for the integrated study of the circadian clock in the model plant Arabidopsis (_Arabidopsis thaliana_). There, I managed three independent projects using techniques as diverse as molecular biology, imaging, physiology, modelling and involving the management of a large amount of data, interacting strongly with several modellers. In particular, this study led to outstanding observations of spatiotemporal waves of circadian clock gene expression in the leaf.
 
 
-Career overview
+My career
 ------
 My PhD thesis (December 2005-December 2008), was funded by an Inra ASC contract from the Genetics and Plant Breeding Department. This multidisciplinary project was built in close collaboration between my home laboratory - the Plant Genetics and Plant Improvement Station (UR 254 SGAP, now integrated into the [IJPB unit](https://www-ijpb.versailles.inra.fr/en/)) for the experimental part - and the [Centre for Integrative Legume Research](http://www.cilr.uq.edu.au/) (University of Queensland, Australia) for the modelling part.
 
