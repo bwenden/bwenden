@@ -11,9 +11,6 @@ main:
     
   - title: "Past projects"
     url: /past-projects/
-    
-  - title: "Portfolio"
-    url: /portfolio/
-    
+  
   - title: "CV"
     url: /cv/
