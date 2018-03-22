@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% include toc %}
 
 I am a research scientist at Inra Bordeaux-Aquitaine (France), in the [UMR1332 Biologie du Fruit et Pathologie laboratory](https://www6.bordeaux-aquitaine.inra.fr/bfp_eng/). I like to define myself as a multi-disciplinary scientist, having carried out several systems biology projects on different plant species. After studying green pea and _Arabidopsis thaliana_, I have now moved to fruit trees.
 
