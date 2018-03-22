@@ -94,13 +94,6 @@ Responsibilities
 * Member of the team of scientific animation and strategic council of the UMR Biologie du Fruit et Pathologie, Inra
 * Supervision of trainees and PhD students
 
-Funding
-======
-* Hidro (2017-2018) funded by the Genetics and Plant Breeding Department, Inra
-*	ModelCheF (2014–2015, 22 k€) funded by the Genetics and Plant Breeding Department, Inra
-*	CherryDorm (2013–2015, 30 k€) funded by the Genetics and Plant Breeding Department, Inra
-* Mission post-doctorale (2009-2011) funded by Inra
-
 Honors
 ======
 * 2009: _Médaille d'argent_ (Silver medal) from the French Academy of Agriculture
