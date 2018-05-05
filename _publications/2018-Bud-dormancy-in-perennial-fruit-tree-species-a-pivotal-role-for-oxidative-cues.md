@@ -1,5 +1,5 @@
 ---
-title: "Bud dormancy in perennial fruit tree species: a pivotal role for oxidative cues
+title: "Bud dormancy in perennial fruit tree species: a pivotal role for oxidative cues"
 permalink: /publication/2018-Bud-dormancy-in-perennial-fruit-tree-species-a-pivotal-role-for-oxidative-cues
 excerpt: ''
 date: 2018-04-30
