@@ -5,7 +5,7 @@ excerpt: ''
 date: 2018-05-16
 venue: 'Frontiers in Plant Science'
 paperurl: 'http://dx.doi.org/10.3389/fpls.2018.00657'
-citation: 'Rémi Beauvieux, Bénédicte Wenden, Elisabeth Dirlewanger (2018), "Bud dormancy in perennial fruit tree species: a pivotal role for oxidative cues", <i>Frontiers in Plant Science</i>, vol. 9, p. 657'
+citation: 'Rémi Beauvieux, Bénédicte Wenden, Elisabeth Dirlewanger (2018), "Bud dormancy in perennial fruit tree species: a pivotal role for oxidative cues", <i>Frontiers in Plant Science</i>, Volume 9, Page 657'
 ---
 <i class="ai ai-open-access"></i> [Download paper here](https://www.frontiersin.org/articles/10.3389/fpls.2018.00657/pdf) (PDF, 7,7 MB)
 
