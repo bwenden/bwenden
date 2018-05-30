@@ -3,6 +3,7 @@ title: "Chromatin immunoprecipitation-sequencing and RNA-sequencing for complex 
 collection: publications
 permalink: /publication/2018-Chromatin-immunoprecipitation-sequencing-and-RNA-sequencing-for-complex-and-low-abundance-tree-buds
 date: 2018-05-30
+excerpt: ''
 venue: 'bioRxiv'
 paperurl: 'https://doi.org/10.1101/334474'
 citation: 'Noémie Vimont, David Schoepfer, Francois Roudier, Elisabeth Dirlewanger, Philip A Wigge, Bénédicte Wenden, Sandra Cortijo (2018), "Chromatin immunoprecipitation-sequencing and RNA-sequencing for complex and low-abundance tree buds", <i>bioRxiv</i> 334474'
