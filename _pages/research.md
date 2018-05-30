@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Tout sur une page ou index de pages ?
+Coming soon…
