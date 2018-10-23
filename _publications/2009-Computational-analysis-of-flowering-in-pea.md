@@ -16,4 +16,4 @@ Here, we developed a computational model based on the hypotheses of the classica
 We found that new hypotheses, in addition to those already described for the classical model, were required that explicitly described the signals. In particular, we hypothesized that the key flowering gene HR interacts with the photoperiod pathway to control flowering. The computational model was tested against a wide range of biological data, including pre-existing and new experimental results presented here, and was found to be accurate.
 This computational model, together with ongoing experimental advances, will assist future modelling efforts to increase our understanding of flowering in pea.
 
-<img src='/bwenden/images/New-conceptual-model.png' />
+<img src='/images/New-conceptual-model.png' />
