@@ -12,6 +12,6 @@ citation: 'Evelyne Costes, Laurent Crespel, Béatrice Denoyes, Philippe Morel, M
 
 **Abstract**: Branching in temperate plants is closely linked to bud fates, either floral or vegetative. Here, we review how the fate of meristematic tissues contained in buds and their position along a shoot imprint specific branching patterns which differ among species. Through examples chosen in closely related species in different genera of the Rosaceae family, a panorama of patterns is apparent. Patterns depend on whether vegetative and floral buds are borne individually or together in mixed buds, develop as the shoot grows or after a rest period, and are located in axillary or terminal positions along the parent shoot. The resulting branching patterns are conserved among varieties in a given species but progressively change with the parent shoot length during plant ontogeny. They can also be modulated by agronomic and environmental conditions. The existence of various organizations in the topology and fate of meristematic tissues and their appendages in closely related species questions the between-species conservation of physiological and molecular mechanisms leading to bud outgrowth vs quiescence and to floral induction vs vegetative development.
 
-<img src='/images/Branching-pattern.png' />
+<img src='/bwenden/images/Branching-pattern.png' />
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="2957861" />
