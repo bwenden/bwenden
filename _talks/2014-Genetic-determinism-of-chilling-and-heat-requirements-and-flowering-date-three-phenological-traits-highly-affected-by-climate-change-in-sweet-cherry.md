@@ -2,7 +2,7 @@
 title: "Genetic determinism of chilling and heat requirements and flowering date, three phenological traits highly affected by climate change in sweet cherry"
 collection: talks
 type: "Talk"
-permalink: /talks/2017-Genetic-determinism-of-chilling-and-heat-requirements-and-flowering-date-three-phenological-traits-highly-affected-by-climate-change-in-sweet-cherry
+permalink: /talks/2014-Genetic-determinism-of-chilling-and-heat-requirements-and-flowering-date-three-phenological-traits-highly-affected-by-climate-change-in-sweet-cherry
 date: 2014-01-11 - 2014-01-15
 venue: 'Plant and Animal Genome XXII'
 paperurl: 'https://pag.confex.com/pag/xxii/webprogram/Paper9642.html'
