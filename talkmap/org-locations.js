@@ -10,14 +10,19 @@ var addressPoints = [
     6.6595734
   ], 
   [
-    "Montpellier, France", 
-    43.6112422, 
-    3.8767337
+    "Palermo, Italy", 
+    38.1112268, 
+    13.3524434
+  ], 
+  [
+    "San Diego, United States", 
+    32.7174209, 
+    -117.1627714
   ], 
   [
     "Naoussa, Greece", 
-    36.4162061, 
-    25.4313585
+    37.1235202, 
+    25.238741
   ], 
   [
     "Angers, France", 
@@ -31,13 +36,13 @@ var addressPoints = [
   ], 
   [
     "Edinburgh, Great-Britain", 
-    55.9495628, 
-    -3.1914972
+    55.953346, 
+    -3.1883739
   ], 
   [
     "Evry, France", 
-    48.6345313, 
-    2.4522217
+    48.6241665, 
+    2.4289667
   ], 
   [
     "Berder, France", 
@@ -50,9 +55,9 @@ var addressPoints = [
     11.3430347
   ], 
   [
-    "San Diego, United States", 
-    32.7174209, 
-    -117.1627714
+    "Montpellier, France", 
+    43.6112422, 
+    3.8767337
   ], 
   [
     "San Diego, USA", 
@@ -66,8 +71,8 @@ var addressPoints = [
   ], 
   [
     "Aiguablava, Spain", 
-    41.9339473, 
-    3.2182091
+    41.934412, 
+    3.2165735
   ], 
   [
     "Clermont-Ferrand, France", 
