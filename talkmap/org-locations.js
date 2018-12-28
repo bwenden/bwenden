@@ -45,6 +45,11 @@ var addressPoints = [
     2.4289667
   ], 
   [
+    "Melbourne, Australia", 
+    -37.8142176, 
+    144.9631608
+  ], 
+  [
     "Berder, France", 
     47.57883085, 
     -2.88806493191441
