@@ -4,8 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2017-A-comparison-of-sweet-cherry-chilling-requirements-estimated-using-statistical-and-biological-approaches
 date: 2017-06-19 - 2017-06-23
-venue: 'International Symposium on Flowering, Fruit Set and Alternate Bearing'
-paperurl: '
+venue: "International Symposium on Flowering, Fruit Set and Alternate Bearing"
 location: "Palermo, Italy"
 ---
 Authors: Bénédicte Wenden, José Quero-García, Elisabeth Dirlewanger, Rebecca Darbyshire
