@@ -17,4 +17,4 @@ DorPatterns
 
 We conducted a fine tune temporal transcriptomic analysis of sweet cherry (*Prunus avium L.*) flower buds from bud organogenesis until the end of bud dormancy using next-generation sequencing ([Vimont *et al.*](https://bwenden.github.io/bwenden/publication/2019-From-bud-formation-to-flowering-transcriptomic-state-defines-the-cherry-developmental-phases-of-sweet-cherry-bud-dormancy)). Flower buds from three sweet cherry cultivars were sampled monthly between July 2015 and March 2016: a very early flowering cultivar 'Cristobalina', an early flowering cultivar 'Garnet' and a late flowering cultivar 'Regina'.
 
-<img src="/bwenden/images/Models-integration.png" />
+<a href="https://bwenden.shinyapps.io/DorPatterns/"><img src="/bwenden/images/DorPatterns.jpg" /></a>
