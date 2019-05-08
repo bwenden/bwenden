@@ -21,8 +21,8 @@ var addressPoints = [
   ], 
   [
     "Naoussa, Greece", 
-    37.1235202, 
-    25.238741
+    40.6306023, 
+    22.0695972
   ], 
   [
     "Angers, France", 
@@ -41,13 +41,18 @@ var addressPoints = [
   ], 
   [
     "Evry, France", 
-    48.6241665, 
-    2.4289667
+    48.62960985, 
+    2.44359589710894
   ], 
   [
     "Melbourne, Australia", 
     -37.8142176, 
     144.9631608
+  ], 
+  [
+    "Vienna, Austria", 
+    48.2083537, 
+    16.3725042
   ], 
   [
     "Berder, France", 
@@ -76,8 +81,8 @@ var addressPoints = [
   ], 
   [
     "Aiguablava, Spain", 
-    41.934412, 
-    3.2165735
+    41.4512425, 
+    2.1856156
   ], 
   [
     "Clermont-Ferrand, France", 
