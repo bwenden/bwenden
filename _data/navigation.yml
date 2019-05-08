@@ -8,9 +8,13 @@ main:
     
   - title: "Research"
     url: /research/
+  
+  - title: "Applications"
+    url: /applications/
     
   - title: "Past projects"
     url: /past-projects/
   
   - title: "CV"
     url: /cv/
+    
