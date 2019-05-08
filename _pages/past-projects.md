@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Past projects"
 permalink: /past-projects/
 author_profile: true
