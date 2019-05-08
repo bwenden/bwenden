@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Applications"
 permalink: /applications/
 author_profile: true
