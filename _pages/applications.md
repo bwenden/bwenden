@@ -1,11 +1,12 @@
 ---
 layout: single
-title: "Applications"
-permalink: /applications/
+title: "Software"
+permalink: /software/
 author_profile: true
 redirect_from:
   - /apps
   - /interactive
+  - /applications
 ---
 
 {% include base_path %}
