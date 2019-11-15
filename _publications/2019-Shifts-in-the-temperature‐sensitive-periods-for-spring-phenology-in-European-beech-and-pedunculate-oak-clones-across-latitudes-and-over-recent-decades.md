@@ -1,7 +1,7 @@
 ---
 title: "Shifts in the temperature‐sensitive periods for spring phenology in European beech and pedunculate oak clones across latitudes and over recent decades"
 collection: publications
-permalink: /publication/2019-Yield-potential-definition-of-the-chilling-requirement-reveals-likely-underestimation-of-the-risk-of-climate-change-on-winter-chill-accumulation
+permalink: /publication/2019-Shifts-in-the-temperature‐sensitive-periods-for-spring-phenology-in-European-beech-and-pedunculate-oak-clones-across-latitudes-and-over-recent-decades
 excerpt: ''
 date: 2019-11-14
 venue: 'Global Change Biology'
