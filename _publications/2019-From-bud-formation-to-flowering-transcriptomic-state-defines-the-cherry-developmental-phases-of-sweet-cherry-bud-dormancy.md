@@ -11,7 +11,7 @@ citation: 'Noémie Vimont, Mathieu Fouché, José Antonio Campoy, Meixuezi Tong,
 <i class="ai ai-open-access"></i> [Download paper here](https://bmcgenomics.biomedcentral.com/track/pdf/10.1186/s12864-019-6348-z) (PDF, 3,6 MB)
 
 **Abstract**:
-# Background
+#### Background
 Bud dormancy is a crucial stage in perennial trees and allows survival over winter to ensure optimal flowering and fruit production. Recent work highlighted physiological and molecular events occurring during bud dormancy in trees. However, they usually examined bud development or bud dormancy in isolation. In this work, we aimed to further explore the global transcriptional changes happening throughout bud development and dormancy onset, progression and release.
 
 Results
