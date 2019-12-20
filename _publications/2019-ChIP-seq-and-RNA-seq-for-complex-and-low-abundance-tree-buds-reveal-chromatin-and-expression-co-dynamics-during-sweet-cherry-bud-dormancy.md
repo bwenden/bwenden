@@ -6,7 +6,7 @@ excerpt: ''
 date: 2019-12-14
 venue: 'Tree Genetics & Genomes'
 paperurl: 'https://doi.org/10.1007/s11295-019-1395-9'
-citation: 'Noémie Vimont, Fu Xiang Quah, David Guillaume Schöepfer, François Roudier, Elisabeth Dirlewanger, Philip A. Wigge, Bénédicte Wenden, Sandra Cortijo (2019), "ChIP-seq and RNA-seq for complex and low-abundance tree buds reveal chromatin and expression co-dynamics during sweet cherry bud dormancy", <i>Tree Genetics & Genomes</i>, Volume 16, Article 9'
+citation: 'Noémie Vimont, Fu Xiang Quah, David Guillaume Schöepfer, François Roudier, Elisabeth Dirlewanger, Philip A. Wigge, Bénédicte Wenden, Sandra Cortijo (2020), "ChIP-seq and RNA-seq for complex and low-abundance tree buds reveal chromatin and expression co-dynamics during sweet cherry bud dormancy", <i>Tree Genetics & Genomes</i>, Volume 16, Article 9'
 ---
 <i class="ai ai-open-access"></i> [Download paper here](https://link.springer.com/content/pdf/10.1007/s11295-019-1395-9.pdf) (PDF, 2,1 MB)
 
