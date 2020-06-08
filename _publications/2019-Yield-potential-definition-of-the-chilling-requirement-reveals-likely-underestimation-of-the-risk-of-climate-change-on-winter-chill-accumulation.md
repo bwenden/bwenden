@@ -3,7 +3,7 @@ title: "Yield potential definition of the chilling requirement reveals likely un
 collection: publications
 permalink: /publication/2019-Yield-potential-definition-of-the-chilling-requirement-reveals-likely-underestimation-of-the-risk-of-climate-change-on-winter-chill-accumulation
 excerpt: ''
-date: 2018-11-20
+date: 2019-02-15
 venue: 'International Journal of Biometeorology'
 paperurl: 'https://doi.org/10.1007/s00484-018-1649-5'
 citation: 'José Antonio Campoy, Rebecca Darbyshire, Elisabeth Dirlewanger, José Quero-García, Bénédicte Wenden (2019), "Yield potential definition of the chilling requirement reveals likely underestimation of the risk of climate change on winter chill accumulation", <i>International Journal of Biometeorology</i>, Volume 63, Issue 2, Pages 183-192 '
