@@ -1,7 +1,7 @@
 ---
 title: "ChIP-seq and RNA-seq for complex and low-abundance tree buds reveal chromatin and expression co-dynamics during sweet cherry bud dormancy"
 collection: publications
-permalink: /publication/2020-ChIP-seq-and-RNA-seq-for-complex-and-low-abundance-tree-buds-reveal-chromatin-and-expression-co-dynamics-during-sweet-cherry-bud-dormancy
+permalink: /publication/2019-ChIP-seq-and-RNA-seq-for-complex-and-low-abundance-tree-buds-reveal-chromatin-and-expression-co-dynamics-during-sweet-cherry-bud-dormancy
 excerpt: ''
 date: 2019-12-14
 venue: 'Tree Genetics & Genomes'
