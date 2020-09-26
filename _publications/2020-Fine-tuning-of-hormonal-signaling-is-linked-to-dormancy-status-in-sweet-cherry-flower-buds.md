@@ -6,7 +6,7 @@ date: 2020-09-25
 excerpt: ''
 venue: 'Tree Physiology'
 paperurl: 'https://doi.org/10.1093/treephys/tpaa122'
-citation: 'Noémie Vimont, Adrian Schwarzenberg, Mirela Domijan, Armel S L Donkpegan, Rémi Beauvieux, Loïck Dantec, Mustapha Arkoun, Frank Jamois, Jean-Claude Yvin, Philip A Wigge, Elisabeth Dirlewanger, Sandra Cortijo, Bénédicte Wenden (2020), "Fine tuning of hormonal signaling is linked to dormancy status in sweet cherry flower buds", <i>Tree Physiology</i> tpaa122'
+citation: 'Noémie Vimont, Adrian Schwarzenberg, Mirela Domijan, Armel S. L. Donkpegan, Rémi Beauvieux, Loïck Dantec, Mustapha Arkoun, Frank Jamois, Jean-Claude Yvin, Philip A. Wigge, Elisabeth Dirlewanger, Sandra Cortijo, Bénédicte Wenden (2020), "Fine tuning of hormonal signaling is linked to dormancy status in sweet cherry flower buds", <i>Tree Physiology</i> tpaa122'
 ---
 <i class="ai ai-biorxiv"></i> [Download paper here](https://www.biorxiv.org/content/10.1101/423871v3.full.pdf) (PDF, 2,4 MB)
 
